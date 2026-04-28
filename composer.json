@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mtvs\EloquentHashids\": "src/"
+            "Mtvs\\EloquentHashids\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mtvs\EloquentHashids\Tests\": "tests/"
+            "Mtvs\\EloquentHashids\\Tests\\": "tests/"
         }
     },
     "scripts": {
